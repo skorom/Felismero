@@ -15,4 +15,5 @@ if __name__ == '__main__':
     print_hi('Én is')
     print_hi('Megint')
     print_hi('És megint.')
+    print_hi('A new feature')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
